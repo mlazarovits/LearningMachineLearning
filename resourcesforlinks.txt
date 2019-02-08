@@ -9,4 +9,5 @@ Keras Tutorial: https://www.datacamp.com/community/tutorials/deep-learning-pytho
 Andriy Burkov Reddit AMA: https://www.reddit.com/r/IAmA/comments/aknzs8/im_andriy_burkov_the_author_of_the_amazon/?st=JRHBQ8NC&sh=7b2c9287
 
 Textbooks
-Deep Learning: https://www.deeplearningbook.org/
+Deep Learning HTML: https://www.deeplearningbook.org/
+Deep Learning PDF: https://github.com/janishar/mit-deep-learning-book-pdf
