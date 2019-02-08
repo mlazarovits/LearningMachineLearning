@@ -1,0 +1,12 @@
+Tutorials
+Google Machine Learning Crash Course: https://developers.google.com/machine-learning/crash-course/
+CNN Data Augmentation (with Keras): https://developers.google.com/machine-learning/crash-course/
+Tensorflow Tutorials: https://www.tensorflow.org/tutorials
+CodeAcademy: https://www.codecademy.com/
+Python Tutorial: https://www.w3schools.com/PYTHON/default.asp
+PyTorch tutorial: https://pytorch.org/tutorials/
+Keras Tutorial: https://www.datacamp.com/community/tutorials/deep-learning-python
+Andriy Burkov Reddit AMA: https://www.reddit.com/r/IAmA/comments/aknzs8/im_andriy_burkov_the_author_of_the_amazon/?st=JRHBQ8NC&sh=7b2c9287
+
+Textbooks
+Deep Learning: https://www.deeplearningbook.org/
