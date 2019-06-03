@@ -16,4 +16,4 @@ baseurl: "/minimal-mistakes"
 #gems
 plugins:
   - jekyll-include-cache
-  - jek
+
