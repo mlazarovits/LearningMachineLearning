@@ -8,7 +8,7 @@ name: "Margaret Lazarovits"
 description: "Welcome to KU Physics's machine learning club! Scroll down to learn more."
 masthead_title: "Learning Machine Learning"
 url: "https://LearningMachineLearning.github.io"
-baseurl: "/Learning-Machine-Learning"
+baseurl: "/LearningMachineLearning"
 repository: "mlazarovits/LearningMachineLearning"
 
 
