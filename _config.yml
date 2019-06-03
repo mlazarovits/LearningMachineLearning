@@ -9,6 +9,7 @@ description: "Welcome to KU Physics's machine learning club! Scroll down to lear
 masthead_title: "Learning Machine Learning"
 url: "https://mmistakes.github.io"
 baseurl: "/minimal-mistakes"
+repository: "mlazarovits/LearningMachineLearning"
 
 
 
