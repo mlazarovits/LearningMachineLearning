@@ -1,0 +1,17 @@
+---
+layout: splash
+author_profile: false
+---
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Home</title>
+  </head>
+  <body>
+    <center>
+    	<h1>Learning Machine Learning at KU</h1>
+    	We are a machine learning club under KU's physics department. Scroll on to learn more!
+    </center>
+  </body>
+</html>

@@ -1,6 +1,6 @@
 main:
   - title: "Events"
-  description: "past and upcoming programming"
+    url: /events/
     children:
       - title: "Spring 2019"
         url: /spring-2019/
