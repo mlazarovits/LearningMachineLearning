@@ -23,29 +23,42 @@ timezone: America/Chicago
 
 
 # Site Author
-# author:
-#   name             : "Who Are We?"
-#   avatar           : #"/assets/images/Graduation-14.jpg"
-#   bio              : "fill in bio l8r"
-#   location         : "University of Kansas"
-#   links:
-#     - label: "Email"
-#       icon: "fas fa-fw fa-envelope-square"
-#       url: mailto:mlazarovits@gmail.com
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       # url: "https://twitter.com/"
-#     - label: "Facebook"
-#       icon: "fab fa-fw fa-facebook-square"
-#       # url: "https://facebook.com/"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       # url: "https://github.com/"
-#     - label: "Instagram"
-#       icon: "fab fa-fw fa-instagram"
-#       # url: "https://instagram.com/"
+author:
+  name             : "Who Are We?"
+  #avatar           : "/assets/images/Graduation-14.jpg"
+  bio              : "fill in bio l8r"
+  location         : "University of Kansas"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:mlazarovits@gmail.com
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
 
-      
+#Reading files
+include:
+  - _pages
+
+
+#Defaults
+defaults:
+  - scope:
+    path: ""
+    type: pages
+  values:
+    layout: single
+    author_profile: true
+
 #gems
 plugins:
   - jekyll-include-cache

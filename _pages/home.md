@@ -1,14 +1,9 @@
 ---
 layout: splash
 author_profile: false
-permalink: /
+permalink: /events/
 
 
-header:
-    <center>
-    	<h1>Learning Machine Learning at KU</h1>
-    	We are a machine learning club under KU's physics department. Scroll on to learn more!
-    </center>
 
 feature_row:
   - title: "Spring 2019"
@@ -17,7 +12,11 @@ feature_row:
     excerpt: "Coming soon!"
   - title: "Fall 2019"
     excerpt: "Coming soon!"
-
+Test
 ---
+<center>
+  <h1>Learning Machine Learning at KU</h1>
+  We are a machine learning club under KU's physics department. Scroll on to learn more!
+</center>
 
-{% include feature_row %}
+TEST

@@ -4,11 +4,7 @@ author_profile: false
 permalink: /
 
 
-header:
-    <center>
-    	<h1>Learning Machine Learning at KU</h1>
-    	We are a machine learning club under KU's physics department. Scroll on to learn more!
-    </center>
+
 
 feature_row:
   - title: "Spring 2019"
@@ -19,6 +15,13 @@ feature_row:
     excerpt: "Coming soon!"
 
 ---
-{% include header %}
+<br>
+<center>
+	<h1>Learning Machine Learning at KU</h1>
+	We are a machine learning club under KU's physics department. Scroll on to learn more!
+</center>
 
+<br>
+
+---
 {% include feature_row %}
