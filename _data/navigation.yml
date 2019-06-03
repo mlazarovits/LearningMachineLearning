@@ -1,0 +1,17 @@
+main:
+  - title: "Events"
+  description: "past and upcoming programming"
+    children:
+      - title: "Spring 2019"
+        url: /spring-2019/
+      - title: "Summer 2019"
+        url: /summer-2019/
+      - title: "Fall 2019"
+        url: /fall-2019/
+     
+
+  - title: "Machine Learning Resources"
+    url: /ml-resources/
+
+  - title: "Physics @ KU"
+    url: http://physics.ku.edu/
