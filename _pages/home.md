@@ -19,6 +19,5 @@ feature_row:
     excerpt: "Coming soon!"
 
 ---
-{% include header %}
 
 {% include feature_row %}
