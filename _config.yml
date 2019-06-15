@@ -1,10 +1,11 @@
 remote_theme: "mmistakes/minimal-mistakes@4.16.4"
 minimal_mistakes_skin: "mint"
+
 #Site Settings
 locale: "en-US"
 title: "Learning Machine Learning"
 title_separator: "-"
-name: "Margaret Lazarovits"
+name: &name "Margaret Lazarovits"
 description: "Welcome to KU Physics's machine learning club! Scroll down to learn more."
 masthead_title: "Learning Machine Learning"
 url: "https://LearningMachineLearning.github.io"
@@ -24,14 +25,16 @@ timezone: America/Chicago
 
 # Site Author
 author:
-  name             : "Contact Us"
+  name             : "Want to Learn More?"
   #avatar           : "/assets/images/Graduation-14.jpg"
-  bio              : "fill in bio l8r"
+  bio              : "Email us below, or sign up for our meetings!"
   location         : "University of Kansas"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      # icon: "fas fa-fw fa-envelope-square"
       url: mailto:mlazarovits@gmail.com
+    - label: "Sign Up Here!"
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSeySIEWeEl_0ew6r_0G6py5qhpB1Rf_ZNq6tkmYXE6CvTwBLg/viewform?usp=sf_link"
 
 
 
@@ -44,11 +47,11 @@ include:
 defaults:
   #_pages
 - scope:
-    path: " "
+    path: "_pages"
     type: pages
   values:
-    author_profile: true
     layout: single
+    author_profile: true
     
 
 #gems

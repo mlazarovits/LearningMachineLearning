@@ -1,5 +1,5 @@
 ---
-layout: default
+<!-- layout: default -->
 permalink: /MLresources/
 title: "Machine Learning Resources"
 
@@ -8,8 +8,7 @@ title: "Machine Learning Resources"
 ## Literature
 
 ### Deep Learning (Neural Networks)
-[Deep Learning Book (HTML)](https://www.deeplearningbook.org/)
-[Deep Learning Book (PDF)](https://github.com/janishar/mit-deep-learning-book-pdf)
+Deep Learning Book [(HTML)](https://www.deeplearningbook.org/) [(PDF)](https://github.com/janishar/mit-deep-learning-book-pdf)
 
 [A practical guide to Deep Learning in 6 months](https://blog.paperspace.com/a-practical-guide-to-deep-learning-in-6-months/)
 [A Beginner's Guide To Understanding Convolutional Neural Networks (Pt. 1)](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)

@@ -2,11 +2,10 @@
 layout: splash
 sidebar: true
 permalink: /
-author_profile: true
 
 feature_row:
   - title: "Summer 2019"
-    excerpt: "Coming soon!"
+    excerpt: "View our Summer Schedule [here](events/)!"
   - title: "Fall 2019"
     excerpt: "Coming soon!"
   - title: "Spring 2019"
