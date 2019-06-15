@@ -1,18 +1,16 @@
 ---
 layout: splash
-author_profile: false
+sidebar: true
 permalink: /
-
-
-
+author_profile: true
 
 feature_row:
-  - title: "Spring 2019"
-    excerpt: "Events from the past semester."
   - title: "Summer 2019"
     excerpt: "Coming soon!"
   - title: "Fall 2019"
     excerpt: "Coming soon!"
+  - title: "Spring 2019"
+    excerpt: "Events from the past semester."
 
 ---
 <br>
