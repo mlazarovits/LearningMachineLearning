@@ -1,5 +1,5 @@
 remote_theme: "mmistakes/minimal-mistakes@4.16.4"
-minimal_mistakes_skin: "mint"
+minimal_mistakes_skin: "neon"
 
 #Site Settings
 locale: "en-US"
@@ -28,9 +28,9 @@ author:
   name             : "Want to Learn More?"
   #avatar           : "/assets/images/Graduation-14.jpg"
   bio              : "Email us below, or sign up for our meetings!"
-  location         : "University of Kansas"
+  location         : "memes"
   links:
-    - label: "Email"
+    - label: "Email Us"
       # icon: "fas fa-fw fa-envelope-square"
       url: mailto:mlazarovits@gmail.com
     - label: "Sign Up Here!"
