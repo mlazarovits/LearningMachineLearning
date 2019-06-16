@@ -9,7 +9,7 @@ feature_row:
   - title: "Fall 2019"
     excerpt: "Coming soon!"
   - title: "Spring 2019"
-    excerpt: "Events from the past semester."
+    excerpt: "[Events](events/) from the past semester."
 
 ---
 <br>

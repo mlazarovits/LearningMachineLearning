@@ -19,7 +19,6 @@ title: "Events"
 | July 31st | Paper Discussion: TITLE |
 | August 7th | Paper Discussion: TITLE |
 | August 14th | Paper Discussion: TITLE and Reinforcement Learning Tutorial|
-| August 21st | Paper Discussion: TITLE |
 
 ### Fall 2019
 
@@ -33,9 +32,9 @@ title: "Events"
 | January 31st | [Machine Learning Basics by Dr. Chris Rogan](https://drive.google.com/open?id=1mBRXBfIwFADrweo23Wr3eKeDEVUj8t3iQssQxYLTZeQ) |
 | February 7th | No Meeting - Campus Closed |
 | February 14th | [Introduction to Neural Networks and Predictive Modelling by Dr. Rogan & Predicting Lawrence Temperatures by Duncan](https://drive.google.com/open?id=16zNK4PLBPW7SFDTEbJWI2jSFz9swaZSrXjXs2K6iYsI) |
-| February 21st | [Analyzing TA Evaluations by Dr. Jennifer Delgado & Tagging b-Jets at low pT by Erich](https://drive.google.com/open?id=1gm332MINuNEsj6oUqVi_aMCzegNGaiEhAHVe-AcLLCU)|
-| February 28th | Analyzing Peculiar Velocities from Kinetic Sunyaev-Zel'dovich Effect by Yuyu & Analyzing LGAD Sensor Waveforms for the MTD by Margaret |
-| March 7th | Neutrino and UHECR Detection through RADAR Technique with Uzair & Using CNNs to Extract Signal from bbar Backgrounds in double Higgs Production with Dr. Han Kim |
+| February 21st | [Reviews are Terrible by Dr. Jennifer Delgado & Tagging Low pT b-jets by Erich Schmitz](https://drive.google.com/open?id=1gm332MINuNEsj6oUqVi_aMCzegNGaiEhAHVe-AcLLCU)|
+| February 28th | Analyzing Peculiar Velocities from Kinetic Sunyaev-Zel'dovich Effect by Yuyu & Machine Learning with the MIP Timing Detector by Margaret |
+| March 7th | Towards measurement of the UCEHR with the ARA experiment and Neutrino and UHECR detection through RADAR technique by Uzair & Using CNNs to Extract Signal from bbar Backgrounds in double Higgs Production by Dr. Han Kim |
 | March 14th | No Meeting - Spring Break! |
 | March 21st | [Follow up and brainstorm: Predicting Lawrence Temperature](https://drive.google.com/open?id=1nAFSZSAuTLRfN2Kt71lJaCzy_OZuSolvIwFxOo9mBgw) |
 | March 28th | [Follow up and brainstorm: Analyzing TA Evaluations & Tagging b-Jets at low pT](https://drive.google.com/open?id=1i58ApKUiN6G7UeV8LNPxoagdbGJoDOnFaXYYQHqlNos) |
@@ -48,6 +47,16 @@ title: "Events"
 
 
 Presentations
+[Reviews are Terrible by Dr. Jennifer Delgado](../assets/pwrpts_spring19/jd_ml_2_21_19.pdf){:target="_blank"}
+
+[Tagging Low pT b-jets by Erich Schmitz](../assets/pwrpts_spring19/Tagging_Low_p_T_B_Jets.pdf){:target="_blank"}
+
+[Analyzing Peculiar Velocities from Kinetic Sunyaev-Zel'dovich Effect by Yuyu](../assets/pwrpts_spring19/ksz_new_ML.pdf){:target="_blank"}
+
+[Machine Learning with the MIP Timing Detector by Margaret Lazarovits](../assets/pwrpts_spring19/ML_with_MTD.pdf){:target="_blank"}
+
+[Towards measurement of the UCEHR with the ARA experiment and Neutrino and UHECR detection through RADAR technique by Uzair Latif](../assets/pwrpts_spring19/MLgroup.pdf){:target="_blank"}
+
 
 
 
