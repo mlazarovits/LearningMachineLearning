@@ -28,12 +28,13 @@ author:
   name             : "Want to Learn More?"
   #avatar           : "/assets/images/Graduation-14.jpg"
   bio              : "Email us below, or sign up for our meetings!"
-  location         : "memes"
+  location         : "University of Kansas"
   links:
     - label: "Email Us"
-      # icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope"
       url: mailto:mlazarovits@gmail.com
     - label: "Sign Up Here!"
+      icon: "fas fa-fw fa-angle-right"
       url: "https://docs.google.com/forms/d/e/1FAIpQLSeySIEWeEl_0ew6r_0G6py5qhpB1Rf_ZNq6tkmYXE6CvTwBLg/viewform?usp=sf_link"
 
 
