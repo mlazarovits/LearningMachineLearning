@@ -1,12 +1,14 @@
 main:
-  - title: "About Us"
+  - title: "About"
     url: /about/
     
-  - title: "Events"
-    url: /events/
-     
+  - title: "Schedules"
+    url: /schedules/
 
-  - title: "Machine Learning Resources"
+  # - title: "Meetings"
+  #   url: /meetings/  
+     
+  - title: "ML Resources"
     url: /MLresources/
 
   - title: "Physics @ KU"

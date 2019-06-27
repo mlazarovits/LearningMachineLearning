@@ -43,6 +43,10 @@ author:
 include:
   - _pages
 
+# collections:
+#   portfolio:
+#     output: true
+
 
 #Defaults
 defaults:
@@ -53,6 +57,17 @@ defaults:
   values:
     layout: single
     author_profile: true
+  #_posts
+- scope:
+    path: ""
+    type: posts
+  values:
+    layout: single
+    author_profile: true
+    read_time: true
+    comments: true
+    share: true
+    related: true  
     
 
 #gems
