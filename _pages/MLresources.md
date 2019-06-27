@@ -13,6 +13,9 @@ title: "Machine Learning Resources"
 
 [When Did Bayesian Inference Become Bayesian?](../assets/texts/history_bayes.pdf){:target="_blank"}
 
+[Probability Theory: The Logic of Science by E.T. Jaynes](../assets/texts/JaynesProbabilityTheory.pdf){:target="_blank"}
+
+
 ### Deep Learning (Neural Networks)
 Deep Learning Book [(HTML)](https://www.deeplearningbook.org/){:target="_blank"} [(PDF)](https://github.com/janishar/mit-deep-learning-book-pdf){:target="_blank"}
 
@@ -22,6 +25,8 @@ Deep Learning Book [(HTML)](https://www.deeplearningbook.org/){:target="_blank"}
 
 
 [Author of The Hundred-Page Machine Learning Book Reddit AMA](https://www.reddit.com/r/IAmA/comments/aknzs8/im_andriy_burkov_the_author_of_the_amazon/?st=JRHBQ8NC&sh=7b2c9287){:target="_blank"}
+
+[CMS Machine Learning Hands-on Advanced Tutorials (HATS) 2019](../assets/tutorials/MLHATS2019_31May2019.pdf)
 
 ### Reinforcement Learning
 [Demystifying Deep Reinforcement Learning](https://www.intel.ai/demystifying-deep-reinforcement-learning/#gs.igbl8o){:target="_blank"}
