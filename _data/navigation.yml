@@ -5,8 +5,8 @@ main:
   - title: "Schedules"
     url: /schedules/
 
-  # - title: "Meetings"
-  #   url: /meetings/  
+  - title: "Meetings"
+    url: /meetings/  
      
   - title: "ML Resources"
     url: /MLresources/
