@@ -24,4 +24,13 @@ P(A|B) = P(B|A)P(A)&frasl;P(B). P(A|B), or the probability of event A given even
 
 After examining Bayes' theorem, Professor Rogan discussed hypothesis testing. Given two hypotheses, H0, or the null hypothesis, and H1, the alternative hypothesis, we can quantify our confidence in  one hypothesis over the other based on our data. This is done with the p-value, alpha-value, and beta-value. We also discussed the Neyman-Pearson lemma, how the ratio of likelihoods of the two hypotheses is the universally most powerful value to distinguish between the two.
 
+
+{% capture fig_img2 %}
+![Foo]({{"https://imgs.xkcd.com/comics/frequentists_vs_bayesians.png" | relative_url}})
+{% endcapture %}
+
+<figure>
+	{{fig_img2 | markdownify | remove: "<p>" | remove: "</p>"}}
+</figure>
+
 To wrap up, we took a peek at how machine learning algorithms try to approximate this likelihood ratio. Next week we will dive into machine learning algorithms, their terminology and how they work.
