@@ -34,3 +34,21 @@ After examining Bayes' theorem, Professor Rogan discussed hypothesis testing. Gi
 </figure>
 
 To wrap up, we took a peek at how machine learning algorithms try to approximate this likelihood ratio. Next week we will dive into machine learning algorithms, their terminology and how they work.
+
+
+## Notes
+{% capture fig_img3 %}
+![june26_part1]({{"/assets/notes_summer19/june26_part1.jpg" | relative_url}})
+{% endcapture %}
+
+{% capture fig_img4 %}
+![june26_part2]({{"/assets/notes_summer19/june26_part2.jpg" | relative_url}})
+{% endcapture %}
+
+<figure>
+	{{fig_img3 | markdownify | remove: "<p>" | remove: "</p>"}}
+</figure>
+<figure>
+	{{fig_img4 | markdownify | remove: "<p>" | remove: "</p>"}}
+</figure>
+
