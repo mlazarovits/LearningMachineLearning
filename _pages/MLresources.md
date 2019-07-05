@@ -45,6 +45,8 @@ Linear Modeling Tools [Jupyter Notebook](http://theenglishtea.company/reading-da
 ### Deep Learning
 [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/){:target="_blank"}
 
+[Google Colab (GPU capabilities)](https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=P-H6Lw1vyNNd){:target="_blank"}
+
 [Tensorflow](https://www.tensorflow.org/tutorials){:target="_blank"}
 
 [Keras](https://www.datacamp.com/community/tutorials/deep-learning-python){:target="_blank"}
