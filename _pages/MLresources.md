@@ -36,7 +36,7 @@ Deep Learning Book [(HTML)](https://www.deeplearningbook.org/){:target="_blank"}
 ## Tutorials
 
 ### Linear Regression
-Sadia's Tutorial (7/3/19) [Tutorial: Github area](https://github.com/skhalil/DataScience/blob/master/Regression/LinearRegressionTutorial/linearRegIntro.ipynb){:target="_blank"} [Tutorial: Slides](../assets/pwrpts_summer19/LinearRegressionTutorial.pdf){:target="_blank"}
+Sadia's Tutorial (7/3/19) [Linear Regression Tutorial: Github area](https://github.com/skhalil/DataScience/blob/master/Regression/LinearRegressionTutorial/linearRegIntro.ipynb){:target="_blank"} [Real world example](https://github.com/skhalil/DataScience/blob/master/Regression/LinearRegressionTutorial/linearRegSklearn.ipynb){:target="_blank"} [Slides](../assets/pwrpts_summer19/LinearRegressionTutorial.pdf){:target="_blank"}
 
 Linear Modeling Tools [Jupyter Notebook](http://theenglishtea.company/reading-data-from-file/){:target="_blank"} [Github area](https://github.com/skhalil/DataScience/blob/master/Regression/regression_sklearn.py)
 
