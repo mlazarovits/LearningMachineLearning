@@ -9,34 +9,34 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>7/3/19: Intro to ML and Linear Regression Tutorial - Learning Machine Learning</title>
-<meta name="description" content="This week, we split our time between learning about the mathematical basis of machine learning with Professor Chris Rogan and applying this basis in a Python tutorial with Dr. Sadia Khalil.">
+<!-- begin _includes/seo.html --><title>7/10/19 Paper Discussion: Conditional Neural Processes - Learning Machine Learning</title>
+<meta name="description" content="This week, Dr. Sadia Khalil and Mitzi Sanchez Cubedo led a discussion surrounding the paper, Conditional Neural Processes by Marta Garnelo, et. al.">
 
 
 
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Learning Machine Learning">
-<meta property="og:title" content="7/3/19: Intro to ML and Linear Regression Tutorial">
-<meta property="og:url" content="http://localhost:4000/LearningMachineLearning/2019/07/03/intro-to-ml-and-linear-regression-tutorial.html">
+<meta property="og:title" content="7/10/19 Paper Discussion: Conditional Neural Processes">
+<meta property="og:url" content="http://localhost:4000/LearningMachineLearning/2019/07/10/paper-discussion-conditional-neural-processes.html">
 
 
-  <meta property="og:description" content="This week, we split our time between learning about the mathematical basis of machine learning with Professor Chris Rogan and applying this basis in a Python tutorial with Dr. Sadia Khalil.">
-
-
-
-
-
-
-
-  <meta property="article:published_time" content="2019-07-03T00:00:00-05:00">
+  <meta property="og:description" content="This week, Dr. Sadia Khalil and Mitzi Sanchez Cubedo led a discussion surrounding the paper, Conditional Neural Processes by Marta Garnelo, et. al.">
 
 
 
 
 
 
-<link rel="canonical" href="http://localhost:4000/LearningMachineLearning/2019/07/03/intro-to-ml-and-linear-regression-tutorial.html">
+
+  <meta property="article:published_time" content="2019-07-10T00:00:00-05:00">
+
+
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/LearningMachineLearning/2019/07/10/paper-discussion-conditional-neural-processes.html">
 
 
 
@@ -245,15 +245,15 @@
 
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="7/3/19: Intro to ML and Linear Regression Tutorial">
-    <meta itemprop="description" content="This week, we split our time between learning about the mathematical basis of machine learning with Professor Chris Rogan and applying this basis in a Python tutorial with Dr. Sadia Khalil.">
-    <meta itemprop="datePublished" content="July 03, 2019">
+    <meta itemprop="headline" content="7/10/19 Paper Discussion: Conditional Neural Processes">
+    <meta itemprop="description" content="This week, Dr. Sadia Khalil and Mitzi Sanchez Cubedo led a discussion surrounding the paper, Conditional Neural Processes by Marta Garnelo, et. al.">
+    <meta itemprop="datePublished" content="July 10, 2019">
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">7/3/19: Intro to ML and Linear Regression Tutorial
+          <h1 id="page-title" class="page__title" itemprop="headline">7/10/19 Paper Discussion: Conditional Neural Processes
 </h1>
           
             <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
@@ -261,7 +261,7 @@
 
 
 
-  2 minute read
+  less than 1 minute read
 </p>
           
         </header>
@@ -269,22 +269,12 @@
 
       <section class="page__content" itemprop="text">
         
-        <p>This week, we split our time between learning about the mathematical basis of machine learning with Professor Chris Rogan and applying this basis in a Python tutorial with Dr. Sadia Khalil.</p>
+        <p>This week, Dr. Sadia Khalil and Mitzi Sanchez Cubedo led a discussion surrounding the paper, <a href="&quot;assets/papers_summer19/conditional_NN.pdf&quot;">Conditional Neural Processes</a> by Marta Garnelo, et. al.</p>
 
-<p>Professor Rogan gave a brief review of Bayes’ theorem from last week, reiterating the purposes of the prior and likelihood. He then introduced the idea of error. One way to calculate the error between the true value and the predicted value is with the mean squared error (MSE). This error is the sum of the squared difference between the true and predicted values.</p>
+<p>Below are the slides presented at this meeting.</p>
 
-<p>Two concepts that relate to the error (or loss) of the model we are testing are variance and bias. Variance tells us how well the model can be generalized to data it has not seen before. Bias tell us how closely the model fits the data we are testing it on. Complicating the model (ie going from a linear to a quadratic model) can reduce the bias by more closely fitting the model to the test data. However, the more a model fits the test data, the less likely it is able to be generalized to new data. Therefore, there is a trade off betweeen the bias and variance. A good model should fit the test data well, but not well enough that it cannot be generalized to more data. This balance introduces the concept of overfitting, which is a potential downfall of machine learning techniques.</p>
+<iframe src="https://onedrive.live.com/embed?cid=255C2C7AA1286E99&amp;resid=255C2C7AA1286E99%21326&amp;authkey=AF41IoxCzeuoFRE&amp;em=2&amp;wdAr=1.7777777777777777" width="962px" height="565px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>
 
-<figure>
-	
-<img src="/LearningMachineLearning/assets/images/ML4timing_NNdiagram.png" alt="Foo" />
-
-	<figcaption>A neural network diagram from a talk Margaret gave on using neural networks for precision timing purposes at the CMS detector.</figcaption>
-</figure>
-
-<p>After discussing these mathematically-rooted machine learning concepts, we turned to a more concrete example of machine learning, specifically the neural netowkr (NN). A neural network is comprised of nodes (or neurons) where inputs are summed with specific weights. This sum is transformed by a non-linear activation function before it is outputted from this node and combined with other outputs into the next layer, and so on. The most popular activation functions are the sigmoid and rectified linear unit (ReLU) functions. The goal of a neural network is to learn the optimal weights to apply to each input at each node. Loss functions, like the MSE, are functions that tell us how close our NN predictions to the true values.</p>
-
-<p>Next, Dr. Sadia Khalil walked us through <a href="../../../MLresources">two linear regression tutorials</a>, which are both in Jupyter notebooks under the Tutorials section of the ML resources page. <a href="https://github.com/skhalil/DataScience/blob/master/Regression/LinearRegressionTutorial/linearRegIntro.ipynb">The first</a> is a simple linear regression that calculates the predicted values by minimizing the MSE to create a linear model. You can play around with the input data to see how more linear data changes the MSE and R^2 values. <a href="https://github.com/skhalil/DataScience/blob/master/Regression/LinearRegressionTutorial/linearRegSklearn.ipynb">There is another tutorial</a> that performs a linear regression to real world data from the S&amp;P 500 Index. This is a good, economics-focus application of one of machine learning’s most fundamental concepts.</p>
 
         
       </section>
@@ -295,30 +285,29 @@
 
 
         
-          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2019-07-03T00:00:00-05:00">July 03, 2019</time></p>
+          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2019-07-10T00:00:00-05:00">July 10, 2019</time></p>
         
       </footer>
 
       <section class="page__share">
   
 
-  <a href="https://twitter.com/intent/tweet?text=7%2F3%2F19%3A+Intro+to+ML+and+Linear+Regression+Tutorial%20http%3A%2F%2Flocalhost%3A4000%2FLearningMachineLearning%2F2019%2F07%2F03%2Fintro-to-ml-and-linear-regression-tutorial.html" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=7%2F10%2F19+Paper+Discussion%3A+Conditional+Neural+Processes%20http%3A%2F%2Flocalhost%3A4000%2FLearningMachineLearning%2F2019%2F07%2F10%2Fpaper-discussion-conditional-neural-processes.html" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2FLearningMachineLearning%2F2019%2F07%2F03%2Fintro-to-ml-and-linear-regression-tutorial.html" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2FLearningMachineLearning%2F2019%2F07%2F10%2Fpaper-discussion-conditional-neural-processes.html" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2FLearningMachineLearning%2F2019%2F07%2F03%2Fintro-to-ml-and-linear-regression-tutorial.html" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2FLearningMachineLearning%2F2019%2F07%2F10%2Fpaper-discussion-conditional-neural-processes.html" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
 
       
   <nav class="pagination">
     
-      <a href="/LearningMachineLearning/2019/06/27/first-summer19-meeting.html" class="pagination--pager" title="First Summer 2019 Meeting
+      <a href="/LearningMachineLearning/2019/07/03/intro-to-ml-and-linear-regression-tutorial.html" class="pagination--pager" title="7/3/19: Intro to ML and Linear Regression Tutorial
 ">Previous</a>
     
     
-      <a href="/LearningMachineLearning/2019/07/10/paper-discussion-conditional-neural-processes.html" class="pagination--pager" title="7/10/19 Paper Discussion: Conditional Neural Processes
-">Next</a>
+      <a href="#" class="pagination--pager disabled">Next</a>
     
   </nav>
 
@@ -342,7 +331,7 @@
     
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="/LearningMachineLearning/2019/07/10/paper-discussion-conditional-neural-processes.html" rel="permalink">7/10/19 Paper Discussion: Conditional Neural Processes
+        <a href="/LearningMachineLearning/2019/07/03/intro-to-ml-and-linear-regression-tutorial.html" rel="permalink">7/3/19: Intro to ML and Linear Regression Tutorial
 </a>
       
     </h2>
@@ -352,12 +341,10 @@
 
 
 
-  less than 1 minute read
+  2 minute read
 </p>
     
-    <p class="archive__item-excerpt" itemprop="description">This week, Dr. Sadia Khalil and Mitzi Sanchez Cubedo led a discussion surrounding the paper, Conditional Neural Processes by Marta Garnelo, et. al.
-
-</p>
+    <p class="archive__item-excerpt" itemprop="description">This week, we split our time between learning about the mathematical basis of machine learning with Professor Chris Rogan and applying this basis in a Python...</p>
   </article>
 </div>
 

@@ -1,10 +1,6 @@
 ---
 title: "First Summer 2019 Meeting"
-
 ---
-
-
-
 
 In our first meeting of the summer, we enjoyed a lecture from Professor Chris Rogan about statistics in the context of machine learning.
 

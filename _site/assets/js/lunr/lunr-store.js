@@ -8,4 +8,9 @@ var store = [{
         "excerpt":"This week, we split our time between learning about the mathematical basis of machine learning with Professor Chris Rogan and applying this basis in a Python tutorial with Dr. Sadia Khalil. Professor Rogan gave a brief review of Bayes’ theorem from last week, reiterating the purposes of the prior and...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/LearningMachineLearning/2019/07/03/intro-to-ml-and-linear-regression-tutorial.html",
+        "teaser":null},{
+        "title": "7/10/19 Paper Discussion: Conditional Neural Processes",
+        "excerpt":"This week, Dr. Sadia Khalil and Mitzi Sanchez Cubedo led a discussion surrounding the paper, Conditional Neural Processes by Marta Garnelo, et. al.   Below are the slides presented at this meeting.   This is an embedded Microsoft Office presentation, powered by Office Online.  ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/LearningMachineLearning/2019/07/10/paper-discussion-conditional-neural-processes.html",
         "teaser":null}]
