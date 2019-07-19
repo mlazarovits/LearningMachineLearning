@@ -13,4 +13,9 @@ var store = [{
         "excerpt":"This week, Dr. Sadia Khalil and Mitzi Sanchez Cubedo led a discussion surrounding the paper, Conditional Neural Processes by Marta Garnelo, et. al.   Below are the slides presented at this meeting.   This is an embedded Microsoft Office presentation, powered by Office Online.  ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/LearningMachineLearning/2019/07/10/paper-discussion-conditional-neural-processes.html",
+        "teaser":null},{
+        "title": "7/18/19 Paper Discussion: Quantum Machine Learning",
+        "excerpt":"We discussed the paper Quantum Machine Learning by Jacob Biamonte, et. al. Ryan and Ty led our discussion, which mainly focused on the feasibility of quantum computation. This paper is a survey of current state of quantum machine learning. It addresses the feasability of quantum machine learning and potential applications...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/LearningMachineLearning/2019/07/17/paper-discussion-quantum-ML.html",
         "teaser":null}]
