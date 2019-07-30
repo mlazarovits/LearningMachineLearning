@@ -5,11 +5,11 @@ permalink: /
 
 feature_row:
   - title: "Summer 2019"
-    excerpt: "View our Summer Schedule [here](events/)!"
+    excerpt: "Learn more about our Summer meetings [here](meetings)!"
   - title: "Fall 2019"
     excerpt: "Coming soon!"
   - title: "Spring 2019"
-    excerpt: "[Events](events/) from the past semester."
+    excerpt: "[Events](schedules) from the past semester."
 
 ---
 <br>

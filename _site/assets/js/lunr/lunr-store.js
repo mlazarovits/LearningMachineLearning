@@ -14,7 +14,7 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/LearningMachineLearning/2019/07/10/paper-discussion-conditional-neural-processes.html",
         "teaser":null},{
-        "title": "7/18/19 Paper Discussion: Quantum Machine Learning",
+        "title": "7/17/19 Paper Discussion: Quantum Machine Learning",
         "excerpt":"We discussed the paper Quantum Machine Learning by Jacob Biamonte, et. al. Ryan and Ty led our discussion, which mainly focused on the feasibility of quantum computation. This paper is a survey of current state of quantum machine learning. It addresses the feasability of quantum machine learning and potential applications...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/LearningMachineLearning/2019/07/17/paper-discussion-quantum-ML.html",
