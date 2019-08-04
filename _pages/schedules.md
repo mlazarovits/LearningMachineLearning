@@ -16,8 +16,8 @@ Wednesdays, 4-5 pm in Malott 6051
 | July 17th | Paper Discussion: [Quantum Machine Learning](../assets/papers_summer19/quantum_ML.pdf){:target="_blank"} |
 | July 24th | [Introduction to Tensorflow](https://www.tensorflow.org/guide/low_level_intro){:target="_blank"}|
 | July 31st | Paper Discussion: [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](../assets/papers_summer19/batch_normalization.pdf){:target="_blank"} |
-| August 7th | Paper Discussion: [CosmoFlow: Using Deep Learning to Learn the Universe at Scale](../assets/papers_summer19/cosmoflow.pdf) |
-| August 14th | Paper Discussion: [Generative Adversarial Nets](../assets/papers_summer19/GANs_1406.261.pdf){:target="_blank"} and [Generative Adversarial Network Tutorial](https://blog.paperspace.com/implementing-gans-in-tensorflow/){:target="_blank"}|
+| August 7th | Paper Discussion: [Generative Adversarial Nets](../assets/papers_summer19/GANs_1406.261.pdf){:target="_blank"} |
+| August 14th |  and [Generative Adversarial Network Tutorial](https://blog.paperspace.com/implementing-gans-in-tensorflow/){:target="_blank"}|
 
 ### Fall 2019
 
