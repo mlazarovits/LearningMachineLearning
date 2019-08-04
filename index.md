@@ -3,7 +3,7 @@ layout: splash
 sidebar: true
 permalink: /
 image:
-	thumb: assets/images/thumbnail1.jpg
+    thumb: thumbnail1.jpg
 
 feature_row:
   - title: "Summer 2019"
