@@ -22,6 +22,7 @@ analytics:
 
 timezone: America/Chicago
 
+teaser: /assets/images/teaser.jpg
 
 # Site Author
 author:
