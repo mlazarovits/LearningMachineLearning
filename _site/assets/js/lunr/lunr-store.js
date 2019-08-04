@@ -18,4 +18,14 @@ var store = [{
         "excerpt":"We discussed the paper Quantum Machine Learning by Jacob Biamonte, et. al. Ryan and Ty led our discussion, which mainly focused on the feasibility of quantum computation. This paper is a survey of current state of quantum machine learning. It addresses the feasability of quantum machine learning and potential applications...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/LearningMachineLearning/2019/07/17/paper-discussion-quantum-ML.html",
+        "teaser":null},{
+        "title": "7/24/19 Tutorial: Tensorflow",
+        "excerpt":"We took a break from our regular paper discussions this week to host a tutorial on Tensorflow, a popular machine learning open-source software library. This is a low-level library that is used for higher level APIs, like Keras. We followed this tutorial (just the Introduction section) to get a feel...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/LearningMachineLearning/2019/07/24/tutorial-tensorflow.html",
+        "teaser":null},{
+        "title": "7/31/19 Paper Discussion: Batch Normalization",
+        "excerpt":"This week Micah led us in a discussion this paper on batch normalization (BN), which is a technique used in machine learning to speed up learning accurately. The way batch normalization works is by renormalizing the distribution of the data after it passes through a layer in a neural network....","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/LearningMachineLearning/2019/07/31/paper-discussion-batch-normalization.html",
         "teaser":null}]
