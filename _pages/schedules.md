@@ -14,7 +14,7 @@ Wednesdays, 4-5 pm in Malott 6051
 | July 3rd 	| [Machine Learning Basics by Dr. Chris Rogan and Linear Regression Tutorial by Dr. Sadia Khalil](https://docs.google.com/document/d/1RJ_oYthze6tC1zEenNB9cQYQzkho-4tpc_cAtS9jg5I/edit?usp=sharing){:target="_blank"} |
 | July 10th | Paper Discussion: [Conditional Neural Processes](../assets/papers_summer19/conditional_NN.pdf){:target="_blank"} [Discussion Slides](../assets/pwrpts_summer19//Conditional\ Neural\ Processes.pptx){:target="_blank"} |
 | July 17th | Paper Discussion: [Quantum Machine Learning](../assets/papers_summer19/quantum_ML.pdf){:target="_blank"} |
-| July 24th | [Introduction to Tensorflow](https://www.tensorflow.org/guide/low_level_intro){:target="_blank"}|
+| July 24th | Tutorial: [Introduction to Tensorflow](https://www.tensorflow.org/guide/low_level_intro){:target="_blank"}|
 | July 31st | Paper Discussion: [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](../assets/papers_summer19/batch_normalization.pdf){:target="_blank"} |
 | August 7th | Paper Discussion: [Generative Adversarial Nets](../assets/papers_summer19/GANs_1406.261.pdf){:target="_blank"} |
 | August 14th | Tutorial: [Generative Adversarial Network Tutorial](https://blog.paperspace.com/implementing-gans-in-tensorflow/){:target="_blank"}|
