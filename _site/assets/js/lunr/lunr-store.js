@@ -28,4 +28,9 @@ var store = [{
         "excerpt":"This week Micah led us in a discussion this paper on batch normalization (BN), which is a technique used in machine learning to speed up learning accurately. The way batch normalization works is by renormalizing the distribution of the data after it passes through a layer in a neural network....","categories": [],
         "tags": [],
         "url": "http://localhost:4000/LearningMachineLearning/2019/07/31/paper-discussion-batch-normalization.html",
+        "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"},{
+        "title": "8/7/19 Paper Discussion: Generative Adversarial Networks",
+        "excerpt":"This week, John and Quinn lead a discussion on Generative Adversarial Networks (GANs), networks consisting of two opposing subnetworks that train against each other. A generator network tries to map vectors from some noise distribution to the data distribution convincingly, while a discriminator network learns to accurately differentiate between actual...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/LearningMachineLearning/2019/08/07/GAN-paper.html",
         "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"}]

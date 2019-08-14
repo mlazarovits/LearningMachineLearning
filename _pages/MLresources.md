@@ -53,7 +53,9 @@ Linear Modeling Tools [Jupyter Notebook](http://theenglishtea.company/reading-da
 
 [Pytorch](https://pytorch.org/tutorials/){:target="_blank"}
 
-[Building a simple Generative Adversarial Network (GAN) using Tensorflow](https://blog.paperspace.com/implementing-gans-in-tensorflow/){:target="_blank"}
+[Building a simple Generative Adversarial Network (GAN) using Tensorflow (Depreciated)](https://blog.paperspace.com/implementing-gans-in-tensorflow/){:target="_blank"}
+
+[Generative Adversarial Network (GAN) using Keras (more recent)](https://medium.com/datadriveninvestor/generative-adversarial-network-gan-using-keras-ce1c05cfdfd3​){:target="_blank"}
 
 [Keras Convolutional Neural Network Data Augmentation](https://developers.google.com/machine-learning/crash-course/){:target="_blank"}
 
