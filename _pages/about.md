@@ -5,9 +5,9 @@ title: "About Us"
 author_profile: true
 
 ---
+Learning Machine Learning aims to bring together scientists from across disciplines for the purpose of discussing, brainstorming and learning about machine learning in science.
 
-
-We are a student-led group of machine learners! Students, professors, post-docs and more gather weekly to discuss machine learning in various contexts. Although mostly physics focused, we love to foster interdisciplinary collaboration. Our weekly meetings involve research discussions, journal clubs, tutorials and more! If you would like to sign up for our mailing list please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeySIEWeEl_0ew6r_0G6py5qhpB1Rf_ZNq6tkmYXE6CvTwBLg/viewform?usp=sf_link).
+We are a student-led group of machine learners! Students, professors, post-docs and more gather weekly to discuss machine learning in various contexts. Although mostly physics focused, we love to foster interdisciplinary collaboration. Our weekly meetings involve research discussions, journal clubs, tutorials and more. If you would like to sign up for our mailing list please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdnjaDlG8YXsHUQy8irxLQTR_5hYjTyXsPULF28KGjonhh6_A/viewform?usp=sf_link).
 
 This group was founded in Spring 2019 by KU graduate student Margaret Lazarovits, along with guidance from her advisor, Professor Chris Rogan. They are a part of the particle physics group at the Physics department of the University of Kansas. Professor Rogan's research spans a wide variety of projects, including hardware, analysis and phenomenology. 
 
