@@ -6,10 +6,10 @@ image:
     thumb: assets/images/thumbnail1.jpg
 
 feature_row:
-  - title: "Summer 2019"
-    excerpt: "Learn more about our Summer meetings [here](meetings)!"
   - title: "Fall 2019"
-    excerpt: "Coming soon!"
+    excerpt: "Check out our [Fall schedule](schedules)!"
+  - title: "Summer 2019"
+    excerpt: "Learn more about our Summer meetings [here](meetings)."
   - title: "Spring 2019"
     excerpt: "[Events](schedules) from the past semester."
 

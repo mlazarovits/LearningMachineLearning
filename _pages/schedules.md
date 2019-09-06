@@ -5,6 +5,30 @@ permalink: /schedules/
 
 
 ## Upcoming
+### Fall 2019
+Wednesdays, 4-5 pm in Malott 6051
+
+| Date                                        | Event                                           |
+| ------------------------------------------- | ----------------------------------------------- |
+| August 28th    | Classes Start: No Meeting |
+| September 4th  | [Statistics Crash Course with Prof. Chris Rogan](../assets/notes_fall19/LML_Notes9_4_19.pdf){:target="_blank"}  |
+| September 11th | [Linear Regression Tutorial with Dr. Sadia Khalil](https://github.com/skhalil/DataScience/tree/master/Regression/LinearRegressionTutorial){:target="_blank"} |
+| September 18th | Machine Learning Basics with Prof. Chris Rogan |
+| September 25th | [Introduction to Neural Networks Tutorial with Dr. Sadia Khalil](https://github.com/skhalil/DataScience/blob/master/Projects/AdidasVsNike/CNN_NikeVsAdidas_Classifier.ipynb){:target="_blank"}|
+| October 2nd    | Classifying Insects with Neural Netowrks with Ali Khalighifar |
+| October 9th    | Brainstorming Session |
+| October 16th   | Brainstorming Session |
+| October 23rd   | Mining Imperfect Data with Prof. Jerzy Grzymala-Busse |
+| October 30th   | Gaussian Processes with Dr. Hartwin Peelaers |
+| November 6th   | Brainstorming Session |
+| November 13th  | Brainstorming Session |
+| November 20th  | Unsupervised Learning Intro and Tutorial with John Pace |
+| November 27th  | Thanksgiving Break: No Meeting |
+| December 4th   | Brainstorming Session |
+| December 11th  | Brainstorming Session |
+| December 18th  | Finals Week: No Meeting |
+
+## Past
 ### Summer 2019
 Wednesdays, 4-5 pm in Malott 6051
 
@@ -19,9 +43,6 @@ Wednesdays, 4-5 pm in Malott 6051
 | August 7th | Paper Discussion: [Generative Adversarial Nets](../assets/papers_summer19/GANs_1406.261.pdf){:target="_blank"} [Presentation](../assets/pwrpts_summer19/GAN Presentation.pdf){:target="_blank"} |
 | August 14th | Tutorial: [Generative Adversarial Network Tutorial](https://blog.paperspace.com/implementing-gans-in-tensorflow/){:target="_blank"} (see ML Resources page for a more recent version of this tutorial)|
 
-### Fall 2019
-
-## Past
 
 ### Spring 2019
 
