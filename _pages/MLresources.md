@@ -43,6 +43,8 @@ Linear Modeling Tools [Jupyter Notebook](http://theenglishtea.company/reading-da
 [Introduction to Linear Regression](http://theenglishtea.company/wp-content/uploads/2019/06/Linear-Regression-Talk.pdf)
 
 ### Deep Learning
+[3Blue1Brown: But What is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi){:target="_blank"}
+
 [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/){:target="_blank"}
 
 [Google Colab (GPU capabilities)](https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=P-H6Lw1vyNNd){:target="_blank"}
