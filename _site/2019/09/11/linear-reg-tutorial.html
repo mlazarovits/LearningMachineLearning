@@ -9,34 +9,34 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>7/17/19 Paper Discussion: Quantum Machine Learning - Learning Machine Learning</title>
-<meta name="description" content="We discussed the paper Quantum Machine Learning by Jacob Biamonte, et. al. Ryan and Ty led our discussion, which mainly focused on the feasibility of quantum computation. This paper is a survey of current state of quantum machine learning. It addresses the feasability of quantum machine learning and potential applications as well as pitfalls. According to Quantum Machine Learning, most of the quantum computation applications focus on linear algebra operations, like Fourier transforms, finding eigenvectors/eigenvalues and solving linear sets of equations. This paper dives in on this last application, which uses the HHL algorithm to solve sets of equations. It takes the HHL algorithm as an example of how quantum computing can speed up operations. Classical computers take O(NlogN) steps to solve the HHL algorithm while quantum computers take O((logN)^2) steps.">
+<!-- begin _includes/seo.html --><title>9/11/19: Linear Regression Tutorial by Dr. Sadia Khalil - Learning Machine Learning</title>
+<meta name="description" content="RegressionWe learned two models for regression. A simple linear regression as an example of a parametric method, and Gaussian Process as an example for the non-parametric method.">
 
 
 
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Learning Machine Learning">
-<meta property="og:title" content="7/17/19 Paper Discussion: Quantum Machine Learning">
-<meta property="og:url" content="http://localhost:4000/LearningMachineLearning/2019/07/17/paper-discussion-quantum-ML.html">
+<meta property="og:title" content="9/11/19: Linear Regression Tutorial by Dr. Sadia Khalil">
+<meta property="og:url" content="http://localhost:4000/LearningMachineLearning/2019/09/11/linear-reg-tutorial.html">
 
 
-  <meta property="og:description" content="We discussed the paper Quantum Machine Learning by Jacob Biamonte, et. al. Ryan and Ty led our discussion, which mainly focused on the feasibility of quantum computation. This paper is a survey of current state of quantum machine learning. It addresses the feasability of quantum machine learning and potential applications as well as pitfalls. According to Quantum Machine Learning, most of the quantum computation applications focus on linear algebra operations, like Fourier transforms, finding eigenvectors/eigenvalues and solving linear sets of equations. This paper dives in on this last application, which uses the HHL algorithm to solve sets of equations. It takes the HHL algorithm as an example of how quantum computing can speed up operations. Classical computers take O(NlogN) steps to solve the HHL algorithm while quantum computers take O((logN)^2) steps.">
-
-
-
-
-
-
-
-  <meta property="article:published_time" content="2019-07-17T00:00:00-05:00">
+  <meta property="og:description" content="RegressionWe learned two models for regression. A simple linear regression as an example of a parametric method, and Gaussian Process as an example for the non-parametric method.">
 
 
 
 
 
 
-<link rel="canonical" href="http://localhost:4000/LearningMachineLearning/2019/07/17/paper-discussion-quantum-ML.html">
+
+  <meta property="article:published_time" content="2019-09-11T00:00:00-05:00">
+
+
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/LearningMachineLearning/2019/09/11/linear-reg-tutorial.html">
 
 
 
@@ -245,15 +245,15 @@
 
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="7/17/19 Paper Discussion: Quantum Machine Learning">
-    <meta itemprop="description" content="We discussed the paper Quantum Machine Learning by Jacob Biamonte, et. al. Ryan and Ty led our discussion, which mainly focused on the feasibility of quantum computation. This paper is a survey of current state of quantum machine learning. It addresses the feasability of quantum machine learning and potential applications as well as pitfalls. According to Quantum Machine Learning, most of the quantum computation applications focus on linear algebra operations, like Fourier transforms, finding eigenvectors/eigenvalues and solving linear sets of equations. This paper dives in on this last application, which uses the HHL algorithm to solve sets of equations. It takes the HHL algorithm as an example of how quantum computing can speed up operations. Classical computers take O(NlogN) steps to solve the HHL algorithm while quantum computers take O((logN)^2) steps.">
-    <meta itemprop="datePublished" content="July 17, 2019">
+    <meta itemprop="headline" content="9/11/19: Linear Regression Tutorial by Dr. Sadia Khalil">
+    <meta itemprop="description" content="RegressionWe learned two models for regression. A simple linear regression as an example of a parametric method, and Gaussian Process as an example for the non-parametric method.">
+    <meta itemprop="datePublished" content="September 11, 2019">
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">7/17/19 Paper Discussion: Quantum Machine Learning
+          <h1 id="page-title" class="page__title" itemprop="headline">9/11/19: Linear Regression Tutorial by Dr. Sadia Khalil
 </h1>
           
             <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
@@ -261,7 +261,7 @@
 
 
 
-  1 minute read
+  2 minute read
 </p>
           
         </header>
@@ -269,11 +269,43 @@
 
       <section class="page__content" itemprop="text">
         
-        <p>We discussed the paper <a href="../../../assets/papers_summer19/quantum_ML.pdf">Quantum Machine Learning</a> by Jacob Biamonte, et. al. Ryan and Ty led our discussion, which mainly focused on the feasibility of quantum computation. This paper is a survey of current state of quantum machine learning. It addresses the feasability of quantum machine learning and potential applications as well as pitfalls. According to Quantum Machine Learning, most of the quantum computation applications focus on linear algebra operations, like Fourier transforms, finding eigenvectors/eigenvalues and solving linear sets of equations. This paper dives in on this last application, which uses the HHL algorithm to solve sets of equations. It takes the HHL algorithm as an example of how quantum computing can speed up operations. Classical computers take O(NlogN) steps to solve the HHL algorithm while quantum computers take O((logN)^2) steps.</p>
+        <h2 id="regression">Regression</h2>
+<p>We learned two models for regression. A simple linear regression as an example of a parametric method, and Gaussian Process as an example for the non-parametric method.</p>
 
-<p>While computational speed-up is one advantage of quantum computers, an issue with employing machine learning algorithms with quantum computers is the input/output problem. Quantum computers must take in quantum states as inputs, where classical computers take in vectors. These are two of the “four fundamental problems” discussed towards the end of the paper. The authors assert taht “while quantum algorithms can provide dramatic speedups for processing data they seldom provide advantages for reading data.” The same goes for learning the quantum solution that is output by the algorithm. This issue of reading data can often dominate the cost of quantum algorithms. We discussed some potential remedies to these problems. One point that Ty brought up was that the expectation value of the quantum output of the algorithm could be taken to map the quantum output to a classical one. Another way we could potentially minimize the high cost of reading quantum output is to apply the quantum algorithm to a classification problem with only 2 categories. However, this would leave a whole area of machine learning, regression or fitting, to be determined.</p>
+<h2 id="linear-regression">Linear Regression</h2>
+<p>In simple linear regression, we determine the parameters (𝑤, ϵ) by fitting a linear equation, y=𝑤x+ϵ to the observed data. The figure of merit is the mean squared error on the predicted model y^=𝑤(x*)+ϵ, where is unseen points of interest. We did two examples, where in first example we use all data for regression, and then test it on any other dataset point x*[1,…, 20]. In second example, we use half of the data for training, i.e. to determine the parameters (𝑤, ϵ) of the linear model, and use the rest of the data to test the fitted line. In both examples, we plot residuals or mean squared error.</p>
 
-<p>While the majority of our conversation focused on the technical aspects of quantum computing and the applications/issues with the field, it is important to discuss these points to understand further applications of quantum machine learning.</p>
+<h2 id="gaussian-process-regression">Gaussian Process Regression</h2>
+<p>Bayes’ Rule allow us to infer about the posterior distribution 
+𝑝(𝑤|𝑦,𝑋)
+by specifying a prior distribution, 𝑝(𝑤), on the parameter, 𝑤, and relocating probabilities based on evidence (i.e. observed data).</p>
+
+<p>𝑝(𝑤|𝑦,𝑋)=𝑝(𝑌|𝑋,𝑤)𝑝(𝑤) / 𝑝(𝑌|𝑋)</p>
+
+<p>The updated distribution 𝑝(𝑤|𝑦,𝑋), called the posterior distribution, thus incorporates information from both the prior distribution and the dataset. To get predictions at unseen points of interest, x*, the predictive distribution can be calculated by weighting all possible predictions by their calculated posterior distribution.</p>
+
+<p>𝑝(𝑓∗|𝑥∗,𝑦,𝑋) = ∫𝑤𝑝(𝑓∗|𝑥∗,𝑤) 𝑝(𝑤|𝑦,𝑋) 𝑑𝑤</p>
+
+<p>𝑝(𝑓∗|𝑥∗,𝑦,𝑋) = N(𝑓∗|𝜇∗,Σ∗)</p>
+
+<p>The prior and likelihood is usually assumed to be Gaussian for the integration to be tractable, and thus the predictive distribution, is also a Gaussian distribution, from which we can obtain a point prediction, using its mean (𝜇∗) and an uncertainty quantification using its variance (Σ∗). Therefore, instead of calculating the probability distribution of parameters of a specific function, GP calculates the probability distribution over all admissible functions that fit the data.</p>
+
+<p>In GP regression, we first assume a Gaussian process prior, which can be specified using a mean function, m(x), and covariance function, k(x, x’):</p>
+
+<p>𝑓(𝑥) ~ GP ( m(X), k(x, x’) )</p>
+
+<p>A Gaussian process is like an infinite-dimensional multivariate Gaussian distribution, where any collection of the labels, y(x) of the dataset has a joint Gaussian distribution. We can also incorporate independently, identically distributed Gaussian noise, ϵ ∼ N(0, σ²) to the labels.</p>
+
+<p>y(x) = 𝑓(𝑥) + ϵ</p>
+
+<p>y(x) ~ GP ( m(X), k(x,x’) + δij σ²y)</p>
+
+<p>Since the collection of training points and test points are joint multivariate Gaussian distributed, and so we can write their distribution as follows:</p>
+
+<p>From this, we can calculate 𝜇∗ and Σ∗, which are the mean and variance of the predictive posterior distribution.</p>
+
+<p>In third tutorial, we draw samples from a prior distribution, with a mean and a covariance to visualize the prior distribution. Then we compute the predictive posterior distribution assuming zero noise in training data. We study the effect of Kernel parameters and noise effect on the posterior predictive distributions. In last step, we found the optimal parameters of the Kernel, and the noise by maximizing the marginal log-likelihood, and then plot the predictive posterior distribution.</p>
+
 
         
       </section>
@@ -284,30 +316,29 @@
 
 
         
-          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2019-07-17T00:00:00-05:00">July 17, 2019</time></p>
+          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2019-09-11T00:00:00-05:00">September 11, 2019</time></p>
         
       </footer>
 
       <section class="page__share">
   
 
-  <a href="https://twitter.com/intent/tweet?text=7%2F17%2F19+Paper+Discussion%3A+Quantum+Machine+Learning%20http%3A%2F%2Flocalhost%3A4000%2FLearningMachineLearning%2F2019%2F07%2F17%2Fpaper-discussion-quantum-ML.html" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=9%2F11%2F19%3A+Linear+Regression+Tutorial+by+Dr.+Sadia+Khalil%20http%3A%2F%2Flocalhost%3A4000%2FLearningMachineLearning%2F2019%2F09%2F11%2Flinear-reg-tutorial.html" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2FLearningMachineLearning%2F2019%2F07%2F17%2Fpaper-discussion-quantum-ML.html" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2FLearningMachineLearning%2F2019%2F09%2F11%2Flinear-reg-tutorial.html" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2FLearningMachineLearning%2F2019%2F07%2F17%2Fpaper-discussion-quantum-ML.html" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2FLearningMachineLearning%2F2019%2F09%2F11%2Flinear-reg-tutorial.html" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
 
       
   <nav class="pagination">
     
-      <a href="/LearningMachineLearning/2019/07/10/paper-discussion-conditional-neural-processes.html" class="pagination--pager" title="7/10/19 Paper Discussion: Conditional Neural Processes
+      <a href="/LearningMachineLearning/2019/08/07/GAN-paper.html" class="pagination--pager" title="8/7/19 Paper Discussion: Generative Adversarial Networks
 ">Previous</a>
     
     
-      <a href="/LearningMachineLearning/2019/07/24/tutorial-tensorflow.html" class="pagination--pager" title="7/24/19 Tutorial: Tensorflow
-">Next</a>
+      <a href="#" class="pagination--pager disabled">Next</a>
     
   </nav>
 
@@ -321,42 +352,6 @@
     <div class="page__related">
       <h4 class="page__related-title">You May Also Enjoy</h4>
       <div class="grid__wrapper">
-        
-          
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <img src=
-          
-            "/LearningMachineLearning/assets/images/teaser.jpg"
-          
-          alt="">
-      </div>
-    
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="/LearningMachineLearning/2019/09/11/linear-reg-tutorial.html" rel="permalink">9/11/19: Linear Regression Tutorial by Dr. Sadia Khalil
-</a>
-      
-    </h2>
-    
-      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
-
-
-
-
-  2 minute read
-</p>
-    
-    <p class="archive__item-excerpt" itemprop="description">Regression
-We learned two models for regression. A simple linear regression as an example of a parametric method, and Gaussian Process as an example for the ...</p>
-  </article>
-</div>
-
         
           
 
@@ -459,6 +454,41 @@ We learned two models for regression. A simple linear regression as an example o
 </p>
     
     <p class="archive__item-excerpt" itemprop="description">We took a break from our regular paper discussions this week to host a tutorial on Tensorflow, a popular machine learning open-source software library. This ...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src=
+          
+            "/LearningMachineLearning/assets/images/teaser.jpg"
+          
+          alt="">
+      </div>
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/LearningMachineLearning/2019/07/17/paper-discussion-quantum-ML.html" rel="permalink">7/17/19 Paper Discussion: Quantum Machine Learning
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  1 minute read
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">We discussed the paper Quantum Machine Learning by Jacob Biamonte, et. al. Ryan and Ty led our discussion, which mainly focused on the feasibility of quantum...</p>
   </article>
 </div>
 

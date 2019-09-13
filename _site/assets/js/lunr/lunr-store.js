@@ -33,4 +33,9 @@ var store = [{
         "excerpt":"This week, John and Quinn lead a discussion on Generative Adversarial Networks (GANs), networks consisting of two opposing subnetworks that train against each other. A generator network tries to map vectors from some noise distribution to the data distribution convincingly, while a discriminator network learns to accurately differentiate between actual...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/LearningMachineLearning/2019/08/07/GAN-paper.html",
+        "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"},{
+        "title": "9/11/19: Linear Regression Tutorial by Dr. Sadia Khalil",
+        "excerpt":"Regression We learned two models for regression. A simple linear regression as an example of a parametric method, and Gaussian Process as an example for the non-parametric method. Linear Regression In simple linear regression, we determine the parameters (𝑤, ϵ) by fitting a linear equation, y=𝑤x+ϵ to the observed data....","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/LearningMachineLearning/2019/09/11/linear-reg-tutorial.html",
         "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"}]
