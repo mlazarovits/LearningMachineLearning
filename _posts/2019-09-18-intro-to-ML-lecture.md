@@ -1,7 +1,7 @@
 ---
 title: "09/18/2019: Introduction to Machine Learning Lecture with Prof. Rogan"
 ---
-To start of this meeting, we officially (and unanimously!) ratified the LML Constitution, which can be found [here](assets/LML_Constitution_and_Bylaws.pdf).
+To start of this meeting, we officially (and unanimously!) ratified the LML Constitution, which can be found [here](../../../assets/LML_Constitution_and_Bylaws.pdf).
 For quorum purposes, we had 16 active members in attendance. There were 16 in favor of ratifying the Constitution and 0 opposed.
 
 After the ratification, Professor Rogan briefly reminded us of his lecture from two weeks ago, which recounted the decision boundary problem as outlined in ["Elements of Statistical Learning"](../assets/texts/elements_of_stat_learning.pdf") by Hastie, et. al. (see Chapter 11). The effectiveness of the boundary between the two datasets was measured by the residual sum squared, which Professor Rogan also reviewed.
