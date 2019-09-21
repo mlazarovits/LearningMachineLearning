@@ -38,4 +38,9 @@ var store = [{
         "excerpt":"Regression We learned two models for regression. A simple linear regression as an example of a parametric method, and Gaussian Process as an example for the non-parametric method. Linear Regression In simple linear regression, we determine the parameters (𝑤, ϵ) by fitting a linear equation, y=𝑤x+ϵ to the observed data....","categories": [],
         "tags": [],
         "url": "http://localhost:4000/LearningMachineLearning/2019/09/11/linear-reg-tutorial.html",
+        "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"},{
+        "title": "09/18/2019: Introduction to Machine Learning Lecture with Prof. Rogan",
+        "excerpt":"To start of this meeting, we officially (and unanimously!) ratified the LML Constitution, which can be found here. For quorum purposes, we had 16 active members in attendance. There were 16 in favor of ratifying the Constitution and 0 opposed. After the ratification, Professor Rogan briefly reminded us of his...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/LearningMachineLearning/2019/09/18/intro-to-ML-lecture.html",
         "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"}]

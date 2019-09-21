@@ -9,34 +9,34 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>9/11/19: Linear Regression Tutorial by Dr. Sadia Khalil - Learning Machine Learning</title>
-<meta name="description" content="RegressionWe learned two models for regression. A simple linear regression as an example of a parametric method, and Gaussian Process as an example for the non-parametric method.">
+<!-- begin _includes/seo.html --><title>09/18/2019: Introduction to Machine Learning Lecture with Prof. Rogan - Learning Machine Learning</title>
+<meta name="description" content="To start of this meeting, we officially (and unanimously!) ratified the LML Constitution, which can be found here.For quorum purposes, we had 16 active members in attendance. There were 16 in favor of ratifying the Constitution and 0 opposed.">
 
 
 
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Learning Machine Learning">
-<meta property="og:title" content="9/11/19: Linear Regression Tutorial by Dr. Sadia Khalil">
-<meta property="og:url" content="http://localhost:4000/LearningMachineLearning/2019/09/11/linear-reg-tutorial.html">
+<meta property="og:title" content="09/18/2019: Introduction to Machine Learning Lecture with Prof. Rogan">
+<meta property="og:url" content="http://localhost:4000/LearningMachineLearning/2019/09/18/intro-to-ML-lecture.html">
 
 
-  <meta property="og:description" content="RegressionWe learned two models for regression. A simple linear regression as an example of a parametric method, and Gaussian Process as an example for the non-parametric method.">
-
-
-
-
-
-
-
-  <meta property="article:published_time" content="2019-09-11T00:00:00-05:00">
+  <meta property="og:description" content="To start of this meeting, we officially (and unanimously!) ratified the LML Constitution, which can be found here.For quorum purposes, we had 16 active members in attendance. There were 16 in favor of ratifying the Constitution and 0 opposed.">
 
 
 
 
 
 
-<link rel="canonical" href="http://localhost:4000/LearningMachineLearning/2019/09/11/linear-reg-tutorial.html">
+
+  <meta property="article:published_time" content="2019-09-18T00:00:00-05:00">
+
+
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/LearningMachineLearning/2019/09/18/intro-to-ML-lecture.html">
 
 
 
@@ -245,15 +245,15 @@
 
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="9/11/19: Linear Regression Tutorial by Dr. Sadia Khalil">
-    <meta itemprop="description" content="RegressionWe learned two models for regression. A simple linear regression as an example of a parametric method, and Gaussian Process as an example for the non-parametric method.">
-    <meta itemprop="datePublished" content="September 11, 2019">
+    <meta itemprop="headline" content="09/18/2019: Introduction to Machine Learning Lecture with Prof. Rogan">
+    <meta itemprop="description" content="To start of this meeting, we officially (and unanimously!) ratified the LML Constitution, which can be found here.For quorum purposes, we had 16 active members in attendance. There were 16 in favor of ratifying the Constitution and 0 opposed.">
+    <meta itemprop="datePublished" content="September 18, 2019">
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">9/11/19: Linear Regression Tutorial by Dr. Sadia Khalil
+          <h1 id="page-title" class="page__title" itemprop="headline">09/18/2019: Introduction to Machine Learning Lecture with Prof. Rogan
 </h1>
           
             <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
@@ -261,7 +261,7 @@
 
 
 
-  2 minute read
+  4 minute read
 </p>
           
         </header>
@@ -269,42 +269,40 @@
 
       <section class="page__content" itemprop="text">
         
-        <h2 id="regression">Regression</h2>
-<p>We learned two models for regression. A simple linear regression as an example of a parametric method, and Gaussian Process as an example for the non-parametric method.</p>
+        <p>To start of this meeting, we officially (and unanimously!) ratified the LML Constitution, which can be found <a href="assets/LML_Constitution_and_Bylaws.pdf">here</a>.
+For quorum purposes, we had 16 active members in attendance. There were 16 in favor of ratifying the Constitution and 0 opposed.</p>
 
-<h2 id="linear-regression">Linear Regression</h2>
-<p>In simple linear regression, we determine the parameters (𝑤, ϵ) by fitting a linear equation, y=𝑤x+ϵ to the observed data. The figure of merit is the mean squared error on the predicted model y^=𝑤(x*)+ϵ, where is unseen points of interest. We did two examples, where in first example we use all data for regression, and then test it on any other dataset point x*[1,…, 20]. In second example, we use half of the data for training, i.e. to determine the parameters (𝑤, ϵ) of the linear model, and use the rest of the data to test the fitted line. In both examples, we plot residuals or mean squared error.</p>
+<p>After the ratification, Professor Rogan briefly reminded us of his lecture from two weeks ago, which recounted the decision boundary problem as outlined in <a href="../assets/texts/elements_of_stat_learning.pdf&quot;">“Elements of Statistical Learning”</a> by Hastie, et. al. (see Chapter 11). The effectiveness of the boundary between the two datasets was measured by the residual sum squared, which Professor Rogan also reviewed.</p>
 
-<h2 id="gaussian-process-regression">Gaussian Process Regression</h2>
-<p>Bayes’ Rule allow us to infer about the posterior distribution 
-𝑝(𝑤|𝑦,𝑋)
-by specifying a prior distribution, 𝑝(𝑤), on the parameter, 𝑤, and relocating probabilities based on evidence (i.e. observed data).</p>
+<p>Next, he pivoted the conversation to neural networks. This form of machine learning is focused on finding an expansion of the prediction in terms of basis functions. This expansion can be thought of as similar to a Fourier Transform. A discrete Fourier Transform (DFT) expands a function in terms of a linear sum of sines and cosines. The coefficients of these sine/cosine terms are similar to the <em>weights</em> applied to the output of each neural network <em>node</em>. The nodes in a neural network can be thought of as the frequencies in a Fourier Transform. However, unlike a DFT, we don’t need an infinite number of nodes to approximate a function. Instead, a neural network makes use of multiple <em>layers</em> of nodes, as well as making the nodes functions, instead of frequencies.</p>
 
-<p>𝑝(𝑤|𝑦,𝑋)=𝑝(𝑌|𝑋,𝑤)𝑝(𝑤) / 𝑝(𝑌|𝑋)</p>
+<p>These functions at the nodes are called <em>activation functions</em>. Their nonlinear nature make them particularly adept at describing complex systems. One example of an activation function is the sigmoid, or logisitic functin that was introducted in 1989. It was shown with this activation function that you can approximate any reasonably well behaved function with only two hidden layers of nodes. This particular function is also known as the universal approximation function, although you can use other activation functions to approximate functions with the same number of hidden layers. Other activation functions include the widely-used rectified linear unit (ReLU) function and the softmax function.</p>
 
-<p>The updated distribution 𝑝(𝑤|𝑦,𝑋), called the posterior distribution, thus incorporates information from both the prior distribution and the dataset. To get predictions at unseen points of interest, x*, the predictive distribution can be calculated by weighting all possible predictions by their calculated posterior distribution.</p>
+<figure>
+        
+<img src="/LearningMachineLearning/assets/images_fall19/sigmoid_function.png" alt="Foo1" />
 
-<p>𝑝(𝑓∗|𝑥∗,𝑦,𝑋) = ∫𝑤𝑝(𝑓∗|𝑥∗,𝑤) 𝑝(𝑤|𝑦,𝑋) 𝑑𝑤</p>
+        <figcaption>Sigmoid function. (Wikipedia)</figcaption>
+</figure>
 
-<p>𝑝(𝑓∗|𝑥∗,𝑦,𝑋) = N(𝑓∗|𝜇∗,Σ∗)</p>
+<p>Because of these nonlinear activation functions, neural networks are just nonlinear functions stacked on top of each other to create more complex models. When we run input data through a neural network, what the network is doing is learning the weights, or the connections of one node to another. The network recognizes some connections as important, and weights them more heavily, while other connections are deemed less important and their weight can tend to zero.</p>
 
-<p>The prior and likelihood is usually assumed to be Gaussian for the integration to be tractable, and thus the predictive distribution, is also a Gaussian distribution, from which we can obtain a point prediction, using its mean (𝜇∗) and an uncertainty quantification using its variance (Σ∗). Therefore, instead of calculating the probability distribution of parameters of a specific function, GP calculates the probability distribution over all admissible functions that fit the data.</p>
+<figure>
+        
+<img src="/LearningMachineLearning/assets/images/ML4timing_NNdiagram.png" alt="Foo2" />
 
-<p>In GP regression, we first assume a Gaussian process prior, which can be specified using a mean function, m(x), and covariance function, k(x, x’):</p>
+        <figcaption>A neural network diagram.</figcaption>
+</figure>
 
-<p>𝑓(𝑥) ~ GP ( m(X), k(x, x’) )</p>
+<p>The way a network learns these weights is by minimizing a loss or cost function with respect to the weights. In our case, the loss function we want to minimize is the residual sum squared (RSS) function. When the input data is sent through the neural network, the network calculates the gradient (partial derivative in every dimension) of the RSS function with respect to the weights. The network then takes a step in the negative gradient direction, updating the weights accordingly, in an attempt to reach a minimum of the loss function. This is why neural networks are called <em>feedforward backpropagating</em> networks. The data is fed forward through the network while the updated weights are propagated backwards through the chain rule of the partial derivatives (gradient).</p>
 
-<p>A Gaussian process is like an infinite-dimensional multivariate Gaussian distribution, where any collection of the labels, y(x) of the dataset has a joint Gaussian distribution. We can also incorporate independently, identically distributed Gaussian noise, ϵ ∼ N(0, σ²) to the labels.</p>
+<p>When it comes to designing a neural network, there is no right answer. In fact, there are many things you can customize including your input data and labels (output), activation functions, number of layers and number of nodes in each layer, which nodes are connected, and the list goes on. However, one thing to keep in mind when training a neural network is that you should have a validation dataset in addition to your training and test set. This validation set is independent from but identically distributed to the training set. It helps make sure that you aren’t strictly training your network to your training set that you can’t generalize the model to more data. When a neural network trains to learn all the nuances to the training set and has little generalizability, it is called overfitting. The capacity, or complexity, of the neural network means that the model has more parameters and therefor higher variance, less variance, and is more likely to overfit the data. However, if a model is too general, with low variance and high bias, you could poorly fit indepedent but identically distributed datasets, as well as your training set. This is known as underfitting, when the model is too general. Therefore, it is important to strike a balance between capacity and generalizability when training a model.</p>
 
-<p>y(x) = 𝑓(𝑥) + ϵ</p>
+<p>Stopping criteria in the neural network can address the issue of overfitting. When the network passes through one epoch, it goes through one round of updating the weights, and it takes a step in the negative gradient direction, then it repeats. If you can train the network to stop when it starts to take steps up the loss function, this may reduce overfitting. However, it is also good to be able to find a global minimum, not just a local minimum. In order to find this global minimum, it may help to increase the capacity of the network.</p>
 
-<p>y(x) ~ GP ( m(X), k(x,x’) + δij σ²y)</p>
+<p>Some things to think about when choosing your network architecture are enumerated in Hastie, et. al. Chapter 11. These following aspects are discussed in more detail there: starting values of weights, preprocessing inputs, minimization methods, regularization, and network architecture.</p>
 
-<p>Since the collection of training points and test points are joint multivariate Gaussian distributed, and so we can write their distribution as follows:</p>
-
-<p>From this, we can calculate 𝜇∗ and Σ∗, which are the mean and variance of the predictive posterior distribution.</p>
-
-<p>In third tutorial, we draw samples from a prior distribution, with a mean and a covariance to visualize the prior distribution. Then we compute the predictive posterior distribution assuming zero noise in training data. We study the effect of Kernel parameters and noise effect on the posterior predictive distributions. In last step, we found the optimal parameters of the Kernel, and the noise by maximizing the marginal log-likelihood, and then plot the predictive posterior distribution.</p>
+<p><a href="../../../assets/notes_fall19/LML_notes9_18_19.pdf" target="_blank">Here</a> are notes taken from this session, provided by Emily Aresenault.</p>
 
 
         
@@ -316,30 +314,29 @@ by specifying a prior distribution, 𝑝(𝑤), on the parameter, 𝑤, and relo
 
 
         
-          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2019-09-11T00:00:00-05:00">September 11, 2019</time></p>
+          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2019-09-18T00:00:00-05:00">September 18, 2019</time></p>
         
       </footer>
 
       <section class="page__share">
   
 
-  <a href="https://twitter.com/intent/tweet?text=9%2F11%2F19%3A+Linear+Regression+Tutorial+by+Dr.+Sadia+Khalil%20http%3A%2F%2Flocalhost%3A4000%2FLearningMachineLearning%2F2019%2F09%2F11%2Flinear-reg-tutorial.html" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=09%2F18%2F2019%3A+Introduction+to+Machine+Learning+Lecture+with+Prof.+Rogan%20http%3A%2F%2Flocalhost%3A4000%2FLearningMachineLearning%2F2019%2F09%2F18%2Fintro-to-ML-lecture.html" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2FLearningMachineLearning%2F2019%2F09%2F11%2Flinear-reg-tutorial.html" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2FLearningMachineLearning%2F2019%2F09%2F18%2Fintro-to-ML-lecture.html" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2FLearningMachineLearning%2F2019%2F09%2F11%2Flinear-reg-tutorial.html" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2FLearningMachineLearning%2F2019%2F09%2F18%2Fintro-to-ML-lecture.html" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
 
       
   <nav class="pagination">
     
-      <a href="/LearningMachineLearning/2019/08/07/GAN-paper.html" class="pagination--pager" title="8/7/19 Paper Discussion: Generative Adversarial Networks
+      <a href="/LearningMachineLearning/2019/09/11/linear-reg-tutorial.html" class="pagination--pager" title="9/11/19: Linear Regression Tutorial by Dr. Sadia Khalil
 ">Previous</a>
     
     
-      <a href="/LearningMachineLearning/2019/09/18/intro-to-ML-lecture.html" class="pagination--pager" title="09/18/2019: Introduction to Machine Learning Lecture with Prof. Rogan
-">Next</a>
+      <a href="#" class="pagination--pager disabled">Next</a>
     
   </nav>
 
@@ -371,7 +368,7 @@ by specifying a prior distribution, 𝑝(𝑤), on the parameter, 𝑤, and relo
     
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="/LearningMachineLearning/2019/09/18/intro-to-ML-lecture.html" rel="permalink">09/18/2019: Introduction to Machine Learning Lecture with Prof. Rogan
+        <a href="/LearningMachineLearning/2019/09/11/linear-reg-tutorial.html" rel="permalink">9/11/19: Linear Regression Tutorial by Dr. Sadia Khalil
 </a>
       
     </h2>
@@ -381,11 +378,11 @@ by specifying a prior distribution, 𝑝(𝑤), on the parameter, 𝑤, and relo
 
 
 
-  4 minute read
+  2 minute read
 </p>
     
-    <p class="archive__item-excerpt" itemprop="description">To start of this meeting, we officially (and unanimously!) ratified the LML Constitution, which can be found here.
-For quorum purposes, we had 16 active memb...</p>
+    <p class="archive__item-excerpt" itemprop="description">Regression
+We learned two models for regression. A simple linear regression as an example of a parametric method, and Gaussian Process as an example for the ...</p>
   </article>
 </div>
 
