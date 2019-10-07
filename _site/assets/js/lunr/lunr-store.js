@@ -43,4 +43,14 @@ var store = [{
         "excerpt":"To start of this meeting, we officially (and unanimously!) ratified the LML Constitution, which can be found here. For quorum purposes, we had 16 active members in attendance. There were 16 in favor of ratifying the Constitution and 0 opposed. After the ratification, Professor Rogan briefly reminded us of his...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/LearningMachineLearning/2019/09/18/intro-to-ML-lecture.html",
+        "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"},{
+        "title": "09/25/19: Neural Network Tutorial",
+        "excerpt":"Summary and notes from this session coming soon! You can check out the intro tutorial here and a follow up tutorial on gradient descent here.  ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/LearningMachineLearning/2019/09/25/NN-tutorial.html",
+        "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"},{
+        "title": "10/2/19: Species Identification Using Tensorflow by Ali Khalighifar",
+        "excerpt":"Summary coming soon! You can check out the slides here.  ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/LearningMachineLearning/2019/10/02/tensorlow-application-biology.html",
         "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"}]
