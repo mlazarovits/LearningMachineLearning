@@ -53,4 +53,9 @@ var store = [{
         "excerpt":"Summary coming soon! You can check out the slides here.  ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/LearningMachineLearning/2019/10/02/tensorlow-application-biology.html",
+        "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"},{
+        "title": "10/16/19: Brainstorming Part 2",
+        "excerpt":"This week, we continued brainstorming about our collaborative project. See notes from this session here.  ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/LearningMachineLearning/2019/10/16/brainstorming-pt2.html",
         "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"}]
