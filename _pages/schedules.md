@@ -15,7 +15,7 @@ Wednesdays, 4-5 pm in Malott 6051
 | September 11th | [Linear Regression Tutorial with Dr. Sadia Khalil](https://github.com/skhalil/DataScience/tree/master/Regression/LinearRegressionTutorial){:target="_blank"} |
 | September 18th | Machine Learning Basics with Prof. Chris Rogan |
 | September 25th | [Introduction to Neural Networks Tutorial with Dr. Sadia Khalil](https://github.com/skhalil/DataScience/blob/master/Projects/AdidasVsNike/CNN_NikeVsAdidas_Classifier.ipynb){:target="_blank"}|
-| October 2nd    | Classifying Insects with Neural Netowrks with Ali Khalighifar |
+| October 2nd    | Classifying Insects with Neural Networks with Ali Khalighifar |
 | October 9th    | Brainstorming Session |
 | October 16th   | Brainstorming Session |
 | October 23rd   | Mining Imperfect Data with Prof. Jerzy Grzymala-Busse |

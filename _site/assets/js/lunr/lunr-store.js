@@ -50,7 +50,7 @@ var store = [{
         "url": "http://localhost:4000/LearningMachineLearning/2019/09/25/NN-tutorial.html",
         "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"},{
         "title": "10/2/19: Species Identification Using Tensorflow by Ali Khalighifar",
-        "excerpt":"Summary coming soon! You can check out the slides here.  ","categories": [],
+        "excerpt":"In this presentation, Ali summarized his research – using deep neural networks (TensorFlow) to design species identification systems – in two sections: (1) morphology-based identification (triatomine bugs and ticks), and (2) signal-based identification (frogs and mosquitoes). For morphology-based identification, he used images of individuals to classify species based on their...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/LearningMachineLearning/2019/10/02/tensorlow-application-biology.html",
         "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"},{
@@ -58,4 +58,9 @@ var store = [{
         "excerpt":"This week, we continued brainstorming about our collaborative project. See notes from this session here.  ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/LearningMachineLearning/2019/10/16/brainstorming-pt2.html",
+        "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"},{
+        "title": "10/23/19: Mining Imperfect Data with Professor Jerzy Gryzmala-Busse",
+        "excerpt":"This week we enjoyed a lecture on mining imperfect data by Professor Gryzmala-Busse from the Department of Electrical Engineering and Computer Science. Slides from his talk can be found here. Professor Gryzmala-Busse also points out that additional material on this subject can be found in his data mining class handouts:...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/LearningMachineLearning/2019/10/23/imperfect-data-mining.html",
         "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"}]
