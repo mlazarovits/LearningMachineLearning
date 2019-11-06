@@ -19,14 +19,14 @@ Wednesdays, 4-5 pm in Malott 6051
 | October 9th    | Brainstorming Session |
 | October 16th   | Brainstorming Session |
 | October 23rd   | Mining Imperfect Data with Prof. Jerzy Grzymala-Busse |
-| October 30th   | Gaussian Processes with Dr. Hartwin Peelaers |
+| October 30th   | Meeting Cancelled - Weather |
 | November 6th   | Brainstorming Session |
-| November 13th  | Brainstorming Session |
-| November 20th  | Unsupervised Learning Intro and Tutorial with John Pace |
-| November 27th  | Thanksgiving Break: No Meeting |
-| December 4th   | Brainstorming Session |
-| December 11th  | Brainstorming Session |
-| December 18th  | Finals Week: No Meeting |
+| November 12th  | Fast Machine Learning with Professor Javier Duarte |
+| November 19th  | Brainstorming Session |
+| November 26th  | Brainstorming Session |
+| December 3th   | Gaussian Processes with Dr. Hartwin Peelaers |
+| December 10th  | Brainstorming Session |
+| December 19th  | Finals Week: No Meeting |
 
 ## Past
 ### Summer 2019
