@@ -65,7 +65,7 @@ var store = [{
         "url": "http://localhost:4000/LearningMachineLearning/2019/10/23/imperfect-data-mining.html",
         "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"},{
         "title": "11/6/19: Can A Machine Tell Me Who Is A Better Impersonator? with Dr. Midam Kim",
-        "excerpt":"This week, we learned about Dr. Midam Kim’s research in linguistics and its applications in business. Her research in linguistic impersonation is one of the potential projects we could work on, in terms of machine learning. Slides from Dr. Kim’s presentation can be found here.  ","categories": [],
+        "excerpt":"This week, we learned about Dr. Midam Kim’s research in linguistics and its applications in business. Her research in linguistic impersonation is one of the potential projects we could work on, in terms of machine learning. Slides from Dr. Kim’s presentation can be found here and notes from this session...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/LearningMachineLearning/2019/11/06/can-a-machine-tell-me-who-is-a-better-impersonator.html",
         "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"}]
