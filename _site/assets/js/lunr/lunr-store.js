@@ -68,4 +68,9 @@ var store = [{
         "excerpt":"This week, we learned about Dr. Midam Kim’s research in linguistics and its applications in business. Her research in linguistic impersonation is one of the potential projects we could work on, in terms of machine learning. Slides from Dr. Kim’s presentation can be found here and notes from this session...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/LearningMachineLearning/2019/11/06/can-a-machine-tell-me-who-is-a-better-impersonator.html",
+        "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"},{
+        "title": "11/12/19: Deep Learning at the LHC with Professor Javier Duarte",
+        "excerpt":"Professor Javier Duarte visited us this week from University of California, San Diego. He discussed his research with machine learning in high energy physics. Professor Duarte uses deep neural networks and graph neural networks to separate background from signal in Higgs to bb decays. He also discussed using generative neural...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/LearningMachineLearning/2019/11/12/deep-learning-at-the-lhc.html",
         "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"}]
