@@ -6,12 +6,13 @@ image:
     thumb: assets/images/thumbnail1.jpg
 
 feature_row:
+  - title: "Spring 2020"
+    excerpt: "Check out upcoming events for the semester [here](schedules)!"
   - title: "Fall 2019"
-    excerpt: "Check out our [Fall schedule](schedules)!"
+    excerpt: "Events from [last Fall](schedules)."
   - title: "Summer 2019"
     excerpt: "Learn more about our Summer meetings [here](meetings)."
-  - title: "Spring 2019"
-    excerpt: "[Events](schedules) from the past semester."
+  
 
 excerpt: "We are a machine learning club under KU's physics department. We hold weekly meetings during the Fall, Spring and Summer semesters. For more information about what we do, or machine learning in general, click the links above!"
 header:

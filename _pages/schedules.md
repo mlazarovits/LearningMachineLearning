@@ -5,6 +5,30 @@ permalink: /schedules/
 
 
 ## Upcoming
+### Spring 2020
+Thursdays, 4-5 pm in Malott 6051
+
+| Date                                        | Event                                           |
+| ------------------------------------------- | ----------------------------------------------- |
+| January 23rd    | Classes Start: No Meeting |
+| January 30th|[Introduction to Statistics with Prof. Chris Rogan](../assets/notes_spring20/intro_stats_rogan.pdf){:target="_blank"}|
+| February 6th | Overview of ML Algorithms for Text |
+| February 13th | Introduction to Semester Project with Dr. Midam Kim |
+| February 20th | Elections and Paper Dicussion: TBD |
+| February 27th |  ML for Audio Processing with Ali Khalighifar |
+| March 5th    | Paper Discussion: TBD |
+| March 12th   | Spring Break: No Meeting |
+| March 19th   | Machine Learning, Security, and Privacy with Professor Drew Davidson |
+| March 26th   | Project Review with Dr. Midam Kim |
+| April 2nd   | Working Meeting |
+| April 9th  | Working Meeting |
+| April 16th  | Ethics of Machine Learning with Professor John Symons |
+| April 23th  | Working Meeting |
+| April 30th   | Working Meeting |
+| May 7th  | Working Meeting |
+| May 14th  | Finals Week: No Meeting |
+
+## Past
 ### Fall 2019
 Wednesdays, 4-5 pm in Malott 6051
 
@@ -28,7 +52,7 @@ Wednesdays, 4-5 pm in Malott 6051
 | December 10th  | Brainstorming Session |
 | December 19th  | Finals Week: No Meeting |
 
-## Past
+
 ### Summer 2019
 Wednesdays, 4-5 pm in Malott 6051
 
