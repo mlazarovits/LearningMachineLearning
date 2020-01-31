@@ -73,4 +73,14 @@ var store = [{
         "excerpt":"Professor Javier Duarte visited us this week from University of California, San Diego. He discussed his research with machine learning in high energy physics. Professor Duarte uses deep neural networks and graph neural networks to separate background from signal in Higgs to bb decays. He also discussed using generative neural...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/LearningMachineLearning/2019/11/12/deep-learning-at-the-lhc.html",
+        "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"},{
+        "title": "12/3/19: Machine Learning to Augment Material's Property Prediction with Professor Hartwin Peelaers",
+        "excerpt":"This week, we learned about how machine learning can help condensed matter physicists predict properties of certain materials. Professor Peelaers talked about a variety of topics, including compressed sensing, cluster expansion, and finding the ground state of a material’s structure. Slides from Professor Peelaers talk can be found here. Professor...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/LearningMachineLearning/2019/12/03/hartwin-peelaers.html",
+        "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"},{
+        "title": "1/30/20: Introduction to Statistics Lecture by Professor Rogan",
+        "excerpt":"This week we had an introductory statistics lecture by Professor Rogan. Notes from this lecture can be found here.  ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/LearningMachineLearning/2020/01/30/prof-rogan-statistics-intro.html",
         "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"}]
