@@ -83,4 +83,9 @@ var store = [{
         "excerpt":"This week we had an introductory statistics lecture by Professor Rogan. Notes from this lecture can be found here.  ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/LearningMachineLearning/2020/01/30/prof-rogan-statistics-intro.html",
+        "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"},{
+        "title": "07/17/20: Machine Learning in High Energy Physics by Justin Anguiano",
+        "excerpt":"This week, Justin Anguiano gave a talk on machine learning in high energy physics. Slides from this lecture can be found here. A video recording of the presentation can be found here.  ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/LearningMachineLearning/2020/07/17/justin-anguiano-ml-hep.html",
         "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"}]
