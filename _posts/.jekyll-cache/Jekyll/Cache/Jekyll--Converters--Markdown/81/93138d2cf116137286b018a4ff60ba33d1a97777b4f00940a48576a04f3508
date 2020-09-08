@@ -1,0 +1,4 @@
+I"z<p>In this presentation, Ali summarized his research – using deep neural networks (TensorFlow) to design species identification systems – in two sections: (1) morphology-based identification (triatomine bugs and ticks), and (2) signal-based identification (frogs and mosquitoes). For morphology-based identification, he used images of individuals to classify species based on their morphology. For signal-based identification, Ali used the recordings of individuals to classify species based on the frequency distribution. In addition, Ali compared the results of deep neural networks versus traditional classifiers and showed TensorFlow not only improved the correct identification rates significantly, but also eliminated the need for pre-processing images.</p>
+
+<p>You can check out the slides <a href="../../../assets/pwrpts_fall19/TensorFlow Application Biology.pdf">here</a>.</p>
+:ET

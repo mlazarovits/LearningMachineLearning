@@ -88,4 +88,9 @@ var store = [{
         "excerpt":"This week, Justin Anguiano gave a talk on machine learning in high energy physics. Slides from this lecture can be found here. A video recording of the presentation can be found here.  ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/LearningMachineLearning/2020/07/17/justin-anguiano-ml-hep.html",
+        "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"},{
+        "title": "07/31/20: Classifying Radio Galaxies with Machine Learning by Xinyu Mai",
+        "excerpt":"This week, Xinyu Mai discussed her undergraduate research in classifying radio galaxies. Slides from this lecture can be found here. A video recording of the presentation can be found here.  ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/LearningMachineLearning/2020/07/31/xinyu-mai-radio-galaxy-cnn.html",
         "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"}]
