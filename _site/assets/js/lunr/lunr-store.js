@@ -83,4 +83,9 @@ var store = [{
         "excerpt":"This week we had an introductory statistics lecture by Professor Rogan. Notes from this lecture can be found here.  ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/LearningMachineLearning/2020/01/30/prof-rogan-statistics-intro.html",
+        "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"},{
+        "title": "group progress",
+        "excerpt":"test texttexttext  ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/LearningMachineLearning/2020/02/27/test.html",
         "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"}]
