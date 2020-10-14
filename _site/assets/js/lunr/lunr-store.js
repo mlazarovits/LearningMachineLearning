@@ -93,4 +93,14 @@ var store = [{
         "excerpt":"This week, Xinyu Mai discussed her undergraduate research in classifying radio galaxies. Slides from this lecture can be found here. A video recording of the presentation can be found here.  ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/LearningMachineLearning/2020/07/31/xinyu-mai-radio-galaxy-cnn.html",
+        "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"},{
+        "title": "09/08/2020: Introduction to Software Management with Dalton Hahn",
+        "excerpt":"We had EECS PhD student Dalton Hahn give an introduction to software management and version control with Git and GitHub. His slides can be found here and a recording of the workshop can be found here.  ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/LearningMachineLearning/2020/09/08/intro-to-software-mmgt.html",
+        "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"},{
+        "title": "Not *Just* Machine Learning: Ethical Considerations and Machine Learningwith Professor Cameron Piercy",
+        "excerpt":"This week, Professor Cameron Piercy joins us from KU Communication studies. Dr. Cameron Piercy from KU Communication Studies and the Human-Machine Communication lab will discuss the human-side of machine learning. He will share recent theoretical and empirical evidence encouraging those utilizing machine learning to focus on the human consequences of...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/LearningMachineLearning/2020/10/13/ethics-in-ml.html",
         "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"}]

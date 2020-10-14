@@ -5,6 +5,7 @@ title: "About Us"
 author_profile: true
 
 ---
+
 Learning Machine Learning aims to bring together scientists from across disciplines for the purpose of discussing, brainstorming and learning about machine learning in science.
 
 We are a student-led group of machine learners! Students, professors, post-docs and more gather weekly to discuss machine learning in various contexts. This group is open to all, regardless of their knowledge of machine learning. Although mostly physics focused, we love to foster interdisciplinary collaboration. Our weekly meetings involve research discussions, journal clubs, tutorials and more. If you would like to sign up for our mailing list please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdnjaDlG8YXsHUQy8irxLQTR_5hYjTyXsPULF28KGjonhh6_A/viewform?usp=sf_link). You can also view the [Constitution and Bylaws](../assets/LML_Constitution_and_Bylaws_signed.pdf){:target="_blank"} for this organization online.
