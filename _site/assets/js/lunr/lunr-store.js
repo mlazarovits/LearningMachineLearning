@@ -99,7 +99,7 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/LearningMachineLearning/2020/09/08/intro-to-software-mmgt.html",
         "teaser":"http://localhost:4000/LearningMachineLearning/assets/images/teaser.jpg"},{
-        "title": "Not *Just* Machine Learning: Ethical Considerations and Machine Learningwith Professor Cameron Piercy",
+        "title": "Not *Just* Machine Learning: Ethical Considerations and Machine Learning with Professor Cameron Piercy",
         "excerpt":"This week, Professor Cameron Piercy joins us from KU Communication studies. Dr. Cameron Piercy from KU Communication Studies and the Human-Machine Communication lab will discuss the human-side of machine learning. He will share recent theoretical and empirical evidence encouraging those utilizing machine learning to focus on the human consequences of...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/LearningMachineLearning/2020/10/13/ethics-in-ml.html",

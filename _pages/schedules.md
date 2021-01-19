@@ -5,6 +5,10 @@ permalink: /schedules/
 
 
 ## Upcoming
+### Spring 2021
+Check back soon for updates on our kickoff event (2/1 - 2/5) and regular semester meetings!
+
+## Past
 ### Spring 2020
 Thursdays, 4-5 pm in Malott 6051
 
@@ -28,7 +32,6 @@ Thursdays, 4-5 pm in Malott 6051
 | May 7th  | Working Meeting |
 | May 14th  | Finals Week: No Meeting |
 
-## Past
 ### Fall 2019
 Wednesdays, 4-5 pm in Malott 6051
 
