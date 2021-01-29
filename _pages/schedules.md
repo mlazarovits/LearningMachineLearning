@@ -6,7 +6,16 @@ permalink: /schedules/
 
 ## Upcoming
 ### Spring 2021
-Check back soon for updates on our kickoff event (2/1 - 2/5) and regular semester meetings!
+Learning Machine Learning Kick-off Event Zoom Info
+
+Meeting ID: 935 113 0111 <br/>
+Passcode: 0101
+<!--
+<img src="../assets/LML_KickoffSpring21Flyer.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+-->
+![flyer](../assets/LML_KickoffFlyer-1.png)
 
 ## Past
 ### Spring 2020

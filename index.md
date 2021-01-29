@@ -14,7 +14,7 @@ feature_row:
     excerpt: "Oldies but goodies! [here](meetings/#2019)!"
   
 
-excerpt: "We are a machine learning club under KU's physics department. We hold weekly meetings during the Fall, Spring and Summer semesters. For more information about what we do, or machine learning in general, click the links above. <br/> Join us February 2021 for our Spring Kickoff Event!"
+excerpt: "We are a machine learning club under KU's physics department. We hold weekly meetings during the Fall, Spring and Summer semesters. For more information about what we do, or machine learning in general, click the links above. <br/> Join us February 2021 for our [Spring Kickoff Event](schedules)!"
 header:
   overlay_image: /assets/images/teaser.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
