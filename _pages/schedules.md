@@ -18,15 +18,13 @@ Passcode: 0101
 | February 4th | Quantum Machine Learning with Prof. Elizabeth Behrman |
 | February 5th | Introduction to Github with Dalton Hahn <br/> Keynote Speaker Brian McClendon |
 
+![flyer](../assets/LML_KickoffFlyer-1.png){: .align-center}
 <!--
-![flyer](../assets/LML_KickoffFlyer-1.png)
--->
-
 <figure style = "width: 400px" class="align-center">
 <img src="../assets/LML_KickoffFlyer-1.png"
 alt="Flyer" class="center">
 </figure>
-
+-->
 Watch here for updates on our schedule for Spring 2021!
 
 ## Past
