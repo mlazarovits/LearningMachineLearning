@@ -5,17 +5,29 @@ permalink: /schedules/
 
 
 ## Upcoming
-### Spring 2021
-Learning Machine Learning Kick-off Event Zoom Info
+### Spring 2021 Kick-off
 
-Meeting ID: 935 113 0111 <br/>
+Zoom Meeting ID: 935 113 0111 <br/>
 Passcode: 0101
+
+| Date                                        | Event                                           |
+| ------------------------------------------- | ----------------------------------------------- |
+| February 1st |Introduction to Probability and Neural Networks with Prof. Chris Rogan <br/> Installing ML Libraries with Prof. David Johnson |
+| February 2nd | Introduction to Neural Networks with Chris Harvey |
+| February 3rd | Why Programming Matters with Chris Harvey |
+| February 4th | Quantum Machine Learning with Prof. Elizabeth Behrman |
+| February 5th | Introduction to Github with Dalton Hahn <br/> Keynote Speaker Brian McClendon |
+
 <!--
-<img src="../assets/LML_KickoffSpring21Flyer.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
--->
 ![flyer](../assets/LML_KickoffFlyer-1.png)
+-->
+
+<figure style = "width: 400px" class="align-center">
+<img src="../assets/LML_KickoffFlyer-1.png"
+alt="Flyer" class="center">
+</figure>
+
+Watch here for updates on our schedule for Spring 2021!
 
 ## Past
 ### Spring 2020
