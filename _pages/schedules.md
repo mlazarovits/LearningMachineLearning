@@ -10,6 +10,8 @@ permalink: /schedules/
 Zoom Meeting ID: 935 113 0111 <br/>
 Passcode: 0101
 
+4-6 pm every day (2-4 pm Friday 2/5)
+
 | Date                                        | Event                                           |
 | ------------------------------------------- | ----------------------------------------------- |
 | February 1st |Introduction to Probability and Neural Networks with Prof. Chris Rogan <br/> Installing ML Libraries with Prof. David Johnson |
