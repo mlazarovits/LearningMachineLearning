@@ -7,7 +7,7 @@ Chris Harvey gave a seminar about reinforcement learning. His lecture can be fou
 src="../../../assets/SpringKickoff21/ReinforcementLearning.mp4">
 Your browser does not support the video tag.
 </video>
-If you cannot access the video you can download it <a href="https://drive.google.com/file/d/1qFvJPPw_qPWGpI0F4sK9SZtdbOTMlvpc/view?usp=sharing">here</a>.
+If you cannot access the video you can download it <a href="https://drive.google.com/file/d/1bTVhQbRDp2eezeXQGImY7scQSdXU6vYe/view?usp=sharing">here</a>.
 
 Brian McClendon's talk covered lots of subjects, including computer vision for Google Earth, his time working on mapping for Uber, self-driving capabilities, and Google Brain (aka Tensorflow).
 <video width="320" height="240" controls
